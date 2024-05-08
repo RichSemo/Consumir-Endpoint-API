@@ -1,0 +1,1 @@
+Esse codigo apresenta varias maneiras de se consumir uma API de dados via service
